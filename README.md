@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @dwikimarbi
 - 👀 I’m interested in Web Programming, Mobile Programming and Data Science
-- 🌱 I’m currently learning Data Science and Machine Learning
+- 🌱 I’m currently learning Data Science and Cybersecurity
 - 💞️ I’m looking to collaborate on Posyandu Information System
 - 📫 How to reach me [dwikisulton@gmail.com](mailto:dwikisulton@gmail.com)
 - 📈 Github stats
