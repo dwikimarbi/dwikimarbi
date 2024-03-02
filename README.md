@@ -1,8 +1,8 @@
 <h1> Introduction </h1>
 
 - 👋 Hi, I’m @dwikimarbi
-- 👀 I’m interested in Web Programming, Mobile Programming and Data Science
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning Front-end with React
 - 💞️ I’m looking to collaborate on Posyandu Information System
 - 📫 How to reach me [dwikisulton@gmail.com](mailto:dwikisulton@gmail.com)
 - 📈 Github stats
