@@ -10,7 +10,7 @@
 
 ✏️ | 📽️ | 📝 | :bookmark_tabs:
 ------------ | ------------- |  -------------  |  ------------- 
-[Cara Mambuat Bot di Discord](https://dwikisulthon.blogspot.com/2021/04/cara-membuat-bot-di-discord.html) | [Proyek Pengantar Sistem Digital](https://dwikisulthon.blogspot.com/2020/12/proyek-pengantar-sistem-digital-traffic.html) | [Proposal Manajemen Keamanan Informasi](https://dwikisulthon.blogspot.com/2020/12/contoh-proposal-manajemen-proyek-sistem.html) | [Apa itu Use Case Diagram?](https://dwikisulthon.blogspot.com/2022/05/apa-itu-use-case-diagram.html)
+[Cara Mambuat Bot di Discord](https://dnabigboss.blogspot.com/2021/04/cara-membuat-bot-di-discord.html) | [Proyek Pengantar Sistem Digital](https://dnabigboss.blogspot.com/2020/12/proyek-pengantar-sistem-digital-traffic.html) | [Proposal Manajemen Keamanan Informasi](https://dnabigboss.blogspot.com/2020/12/contoh-proposal-manajemen-proyek-sistem.html) | [Apa itu Use Case Diagram?](https://dnabigboss.blogspot.com/2022/05/apa-itu-use-case-diagram.html)
 
 <h1>Stats and Score</h1>
 
